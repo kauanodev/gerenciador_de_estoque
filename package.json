@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "gerenciador_de_estoque",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "pg": "^8.16.3",
+    "postgres": "^3.4.7",
+    "@supabase/supabase-js": "^2.50.2"
+  
+  }
+}
